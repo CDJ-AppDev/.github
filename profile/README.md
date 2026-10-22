@@ -7,3 +7,5 @@
 - Project in Programming Languages (ASB)
 - Project in Information Management (ASB)
 - Project in Software Engineering (Schedula)
+- Project in Algorithms and Complexity (Schedula)
+- Project in Machine Learning (SchedulaML)
